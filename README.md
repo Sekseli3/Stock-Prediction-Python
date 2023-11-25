@@ -12,4 +12,4 @@ Data source kaggle: [https://www.kaggle.com/datasets/camnugent/sandp500?resource
 
 ## Results
 
-training loss for LSTM was 0.75 and the result plot can be found in root of project. 
+training loss for LSTM was 0.75 and the result plot can be found in root of project in the PNG file. 
